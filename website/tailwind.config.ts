@@ -24,6 +24,7 @@ const config: Config = {
         midnight: {
           50: "#eef2ff",
           100: "#e0e7ff",
+          700: "#2d2a5e",
           800: "#1e1b4b",
           900: "#0f0c29",
           950: "#07051a",
