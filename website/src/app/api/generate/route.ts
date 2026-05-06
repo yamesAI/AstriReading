@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { NextRequest, NextResponse } from "next/server";
 import { generateReading, ReadingTier, BirthData } from "@/lib/claude";
 import { db } from "@/lib/db";
